@@ -1,0 +1,11 @@
+.header-class {
+  color: red;
+}
+
+#header-id {
+  color: blue;
+}
+
+* {
+  background-color: violet;
+}

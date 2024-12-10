@@ -1,0 +1,6 @@
+:hover: di  chuột qua
+:active: nhấn chuột
+link: chưa truy cập
+visited: đã truy cập
+empty:  chọn div không có nội dung
+target: 

@@ -1,0 +1,24 @@
+.one {
+  border: 1px solid red;
+  outline-style: solid;
+  outline-width: thin;
+}
+
+.two {
+  border: 1px solid green;
+  outline-style: solid;
+  outline-width: medium;
+}
+
+.three {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thick;
+}
+
+.four {
+  border: 1px solid violet;
+  outline-style: solid;
+  outline-width: 5px;
+}

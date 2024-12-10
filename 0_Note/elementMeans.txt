@@ -1,0 +1,31 @@
+text-color: Đặt màu sắc cho văn bản bằng cách sử dụng tên màu (e.g., red), giá trị hex (e.g., #ff0000), hoặc giá trị RGB (e.g., rgb(255, 0, 0)).
+
+text-align: Xác định cách căn chỉnh văn bản theo chiều ngang trong một khối hoặc phần tử bảng. Các giá trị phổ biến bao gồm: left, right, center, justify.
+
+text-align-last: Thiết lập cách căn chỉnh cho dòng cuối cùng trong một phần tử, hữu ích khi text-align được đặt là justify.
+
+text-decoration: Trang trí nội dung văn bản, bao gồm các kiểu như: gạch chân (underline), gạch ngang (line-through), và gạch trên (overline).
+
+text-decoration-color: Đặt màu sắc cho các trang trí văn bản như gạch chân, gạch ngang, và gạch trên.
+
+text-decoration-line: Thiết lập kiểu trang trí cho văn bản, có thể kết hợp nhiều giá trị như: underline, overline, và line-through.
+
+text-decoration-style: Kết hợp thuộc tính text-decoration-line và text-decoration-color để tạo kiểu trang trí văn bản với màu sắc cụ thể.
+
+text-indent: Thụt lề dòng đầu tiên của một đoạn văn. Giá trị thường được đặt bằng đơn vị như px, em, %.
+
+text-justify: Căn chỉnh văn bản bằng cách dàn trải các từ thành các dòng hoàn chỉnh khi sử dụng text-align: justify.
+
+text-overflow: Xác định cách xử lý văn bản bị tràn ra ngoài phạm vi. Các giá trị thông dụng là: clip (cắt đoạn văn bản) và ellipsis (thêm dấu ba chấm).
+
+text-transform: Kiểm soát cách viết hoa của văn bản. Ví dụ: uppercase (chuyển thành chữ hoa), lowercase (chuyển thành chữ thường), và capitalize (viết hoa chữ cái đầu).
+
+text-shadow: Thêm bóng đổ cho văn bản, có thể tùy chỉnh vị trí, kích thước, và màu sắc của bóng.
+
+letter-spacing: Xác định khoảng cách giữa các ký tự trong văn bản, thường dùng để làm rộng hoặc thu hẹp khoảng cách giữa chữ.
+
+line-height: Đặt khoảng cách giữa các dòng văn bản. Giá trị có thể là một số (tỷ lệ), đơn vị cố định (px, em), hoặc tỷ lệ phần trăm.
+
+direction: Đặt hướng văn bản, thường dùng để điều khiển hướng từ trái sang phải (ltr) hoặc từ phải sang trái (rtl).
+
+word-spacing: Xác định khoảng cách giữa các từ trong dòng, có thể làm rộng hoặc thu hẹp khoảng cách giữa các từ.

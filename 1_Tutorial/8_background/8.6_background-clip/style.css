@@ -1,0 +1,7 @@
+div {
+  background-color: yellow;
+  border: 5px solid black;
+  padding: 30px;
+  margin: 30px;
+  background-clip: padding-box;
+}

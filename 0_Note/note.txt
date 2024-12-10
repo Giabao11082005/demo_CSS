@@ -1,0 +1,45 @@
+- CSS là gì?
+CSS (Cascading Style Sheets) là ngôn ngữ để tạo kiểu cho các tài liệu HTML hoặc XML, kiểm soát bố cục, màu sắc, phông chữ và giao diện tổng thể để nâng cao trải nghiệm người dùng.
+
+- Tại sao CSS lại quan trọng?
+CSS tách nội dung khỏi thiết kế, cải thiện khả năng truy cập, nâng cao trải nghiệm người dùng và cung cấp các thiết kế đáp ứng cho các thiết bị và kích thước màn hình khác nhau.
+
+- Làm thế nào để bạn thêm CSS vào một trang web?
+CSS nội tuyến: Sử dụng thuộc tính style trong HTML.
+CSS nội bộ: Sử dụng khối <kiểu> trong <head>.
+CSS bên ngoài: Liên kết tệp CSS với thẻ <link>.
+
+- Cú pháp của CSS là gì?
+Cú pháp CSS: selector { property: value; }. Bộ chọn các yếu tố mục tiêu; thuộc tính xác định thuộc tính kiểu; Giá trị chỉ định chi tiết kiểu dáng.
+
+
+ - Bộ chọn CSS là gì?
+Bộ chọn CSS nhắm mục tiêu các yếu tố để tạo kiểu. Các loại phổ biến: phần tử , lớp, ID và bộ chọn thuộc tính.
+
+
+Thuộc tính CSS là gì?
+Thuộc tính CSS xác định các kiểu như màu sắc, kích thước phông chữ, lề và phần đệm. Ví dụ: p { color: blue; }.
+
+
+
+- Cú pháp cơ bản của CSS là gì?
+Cú pháp CSS bao gồm một bộ chọn và một khối khai báo. Bộ chọn nhắm mục tiêu đến phần tử HTML và khối khai báo chứa một hoặc nhiều khai báo được phân tách bằng dấu chấm phẩy.
+
+- Bộ chọn CSS là gì?
+Bộ chọn được sử dụng để nhắm mục tiêu các phần tử HTML để áp dụng các kiểu. Các loại phổ biến bao gồm bộ chọn phần tử, bộ chọn lớp, bộ chọn ID và bộ chọn thuộc tính.
+
+- Khối khai báo là gì?
+Khối khai báo là một phần của quy tắc CSS chứa một hoặc nhiều khai báo, mỗi khai báo bao gồm một thuộc tính và một giá trị, được đặt trong dấu ngoặc nhọn {}.
+
+
+- Thuộc tính CSS là gì?
+Thuộc tính CSS là khía cạnh của phần tử mà bạn muốn định dạng, chẳng hạn như màu sắc, kích thước phông chữ, lề hoặc khoảng đệm.
+
+
+- Giá trị CSS là gì?
+Giá trị CSS chỉ định cài đặt cho thuộc tính CSS, chẳng hạn như màu xanh lam, kích thước phông chữ 16px, lề 10px, v.v.
+
+
+- Cú pháp cho quy tắc CSS là gì?
+Một quy tắc CSS bao gồm một bộ chọn theo sau là một khối khai báo. Ví dụ, selector { property: value; }.
+

@@ -1,0 +1,8 @@
+h2:target {
+  color: blue;
+}
+
+p:first-child {
+  color: red;
+  font-size: 30px;
+}

@@ -1,0 +1,28 @@
+/* [href] {
+  color: red;
+} */
+
+/* [target="_blank"] {
+  color: violet;
+}
+
+[title~="hello"] {
+  color: green;
+}
+
+[title*="hello"] {
+  color: yellow;
+} */
+
+/* [title|="pic"] {
+  color: green;
+} */
+
+/* 
+[title^="pic"] {
+  color: red;
+} */
+
+[title$="1"] {
+  color: green;
+}

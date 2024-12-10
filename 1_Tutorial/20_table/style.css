@@ -1,0 +1,13 @@
+table,
+th,
+td {
+  text-align: center;
+  vertical-align: top; /* chinh theo chieu doc*/
+  /* width: 50%; */
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+th {
+  height: 70px;
+}

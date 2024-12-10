@@ -1,0 +1,15 @@
+p {
+  outline-color: red;
+}
+
+p.solid {
+  outline-style: solid;
+}
+
+p.dashed {
+  outline-style: dashed;
+}
+
+p.dotted {
+  outline-style: dotted;
+}

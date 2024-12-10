@@ -1,0 +1,16 @@
+.text-align {
+  text-align: center;
+}
+
+.text-align-last {
+  text-align-last: center;
+}
+
+.direction {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.vertical-align {
+  vertical-align: sub;
+}

@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://phunugioi.com/wp-content/uploads/2020/11/tai-hinh-anh-dong-de-thuong.gif);
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+/* 
+background-repeat: lap lai anh
+repeat: lap ca chieu ngang va chieu doc - mac dinh
+repeat-x: chieu ngang
+repeat-y: chieu doc
+no-repeat: khong lap lai
+space: lap lai sao cho image khong bi cat va space image equal
+round: lap lai sao cho image keo dan hoac co bop vua khong gian
+*/

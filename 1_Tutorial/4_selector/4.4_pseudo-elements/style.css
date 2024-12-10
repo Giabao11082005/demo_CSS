@@ -1,0 +1,26 @@
+/*
+dòng đầu tiên
+
+p::first-line {
+  color: red;
+  font-variant: small-caps;
+} */
+
+/* 
+chữ cái đầu tiên: 
+*/
+
+p::first-letter {
+  color: green;
+  font-size: 30px;
+}
+
+::marker {
+  color: red;
+  font-size: 32;
+}
+
+::selection {
+  background-color: violet;
+  color: white;
+}

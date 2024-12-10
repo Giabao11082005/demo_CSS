@@ -1,0 +1,6 @@
+.text-decoration-line {
+  text-decoration-line: overline;
+  text-decoration-color: red;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 50%;
+}

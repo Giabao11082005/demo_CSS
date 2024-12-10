@@ -1,0 +1,10 @@
+.header {
+  width: 100px;
+  height: 100px;
+  background-image: url(./img/color-red.jpg), url(./img/star.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* background-image: linear-gradient: (huong chuyen, mau bat dau, mau ket thuc) 
+  lon hon 0deg: them deg vao sau so do
+  */
+}

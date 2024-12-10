@@ -1,0 +1,6 @@
+.container {
+  border: 2px solid balck;
+  outline: 5px solid pink;
+  margin: 20px;
+  outline-offset: 30px;
+}

@@ -1,0 +1,8 @@
+body {
+  background-image: url(https://phunugioi.com/wp-content/uploads/2020/11/tai-hinh-anh-dong-de-thuong.gif);
+  background-repeat: no-repeat;
+  background-position: right top;
+  /* background-attachment: fixed; chi dinh hinh nen co dinh khi keo trang */
+  background-attachment: scroll;
+  /* fixed: cố định */
+}

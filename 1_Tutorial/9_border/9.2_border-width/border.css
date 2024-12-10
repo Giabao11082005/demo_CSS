@@ -1,0 +1,21 @@
+.container {
+  border: 2px solid red;
+}
+
+.header {
+  border-style: dashed;
+  border-width: 10px;
+  border-color: green;
+}
+
+.boder {
+  border-style: dotted;
+  border-color: blue;
+  border-width: medium;
+}
+
+.footer {
+  border-style: double;
+  border-color: violet;
+  border-width: 2px;
+}
